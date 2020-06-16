@@ -1,0 +1,5 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.0"}
+        fundingcircle/jackdaw {:mvn/version "0.6.6"}
+        aysylu/loom {:mvn/version "1.0.2"}
+        rhizome {:mvn/version "0.2.9"}
+        org.clojure/math.combinatorics {:mvn/version "0.1.4"}}}
